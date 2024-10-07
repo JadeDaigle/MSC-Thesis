@@ -1,6 +1,6 @@
 ###############################################################################-
 #                         Thesis: Chapter 2 Analysis                           #    
-#     Optimizing a Wastewater DNA Extraction for Enhanced AMR Detection         #
+#     Optimizing a Wastewater DNA Extraction for AMR Detection                 #
 #                         Jade Daigle | 2024-03-12                             #
 ###############################################################################-
 
